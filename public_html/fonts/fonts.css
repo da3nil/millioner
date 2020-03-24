@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Montserrat-Bold"; /* Гарнитура шрифта */
+    src: url("Montserrat-Bold.ttf"); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: "Montserrat-Medium"; /* Гарнитура шрифта */
+    src: url("Montserrat-Medium.ttf"); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: "Montserrat"; /* Гарнитура шрифта */
+    src: url("Montserrat-SemiBold.ttf"); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: "Montserrat-SemiBold"; /* Гарнитура шрифта */
+    src: url("Montserrat-Light.ttf"); /* Путь к файлу со шрифтом */
+}
