@@ -9,13 +9,13 @@ $zarabotali=$kupili*1333;
 <html lang="ru">
 <head>
     <!-- Required meta tags -->
-    <meta name="theme-color"content="#000">
+    <meta name="theme-color" content="#000">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <meta name="keywords" content="заработок в интернете, без вложений, с выводом, на карту,работа вакансия, знакомства сайт" />
 
-    <link rel="shortcut icon" href="/img/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/png">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-grid.min.css">
@@ -23,27 +23,6 @@ $zarabotali=$kupili*1333;
 
     <!-- My styles -->
     <link rel="stylesheet" href="css/style.css">
-    <style>
-        .title_mlm {
-            text-decoration: none;
-        }
-        .title_mln:hover {
-            text-decoration: none;
-        }
-        .title_nounderline {
-            text-decoration: none;
-        }
-        .title_underline {
-            text-decoration: underline;
-        }
-        .title_underline:hover{
-            text-decoration: underline;
-        }
-        .title_nounderline:hover {
-            text-decoration: none;
-        }
-
-    </style>
 
     <!-- fonts -->
     <link rel="stylesheet" href="fonts/fonts.css">
@@ -52,8 +31,6 @@ $zarabotali=$kupili*1333;
     <!-- Counter -->
     <link rel="stylesheet" href="css/jquery.countdown.css">
 
-    <!-- revealator -->
-    <!-- <link rel="stylesheet" href="css/revealator.jquery.min.css"> -->
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript" >
        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -69,7 +46,8 @@ $zarabotali=$kupili*1333;
        });
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/52282993" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+    <!-- /Yandex.Metrika counter -->
+
     <title>ЯМИЛЛИОНЕР</title>
 </head>
 <body>
@@ -93,9 +71,7 @@ $zarabotali=$kupili*1333;
 </header>
 
 <div class="content">
-
     <section class="front">
-
         <section class="particles">
             <div id="particles-js" class="particles__container particles-js-canvas-el">
 
@@ -114,9 +90,7 @@ $zarabotali=$kupili*1333;
 
                 <!-- counter -->
                 <div class="col-md-6">
-
                     <h4 class="white" align="center">До окончания предстарта осталось</h4>
-<!--                    <h4 class="white" align="center">--><?php //echo $_SERVER['DOCUMENT_ROOT']?><!--</h4>-->
                     <div id="countdown"></div>
                 </div>
             </div>
@@ -234,8 +208,8 @@ $zarabotali=$kupili*1333;
             <div class="video__description">Просмотри видео для ознакомления</div>
             <div class="">
                 <div class="thumb-wrap">
-                    <!-- <iframe width="867" height="438" src="https://www.youtube.com/embed/N9jTakyUjCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                    <iframe width="578" height="292" src="https://www.youtube.com/embed/FA5gNvUKoQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- Прошлое видео удалено, вставил заглушку :) -->
+                    <iframe width="578" height="292" src="https://www.youtube.com/embed/Mu3BfD6wmPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -253,7 +227,6 @@ $zarabotali=$kupili*1333;
                                 <i class="fa fa-id-card-o" aria-hidden="true"></i>
                             </div>
                         </div>
-
                         <div class="advantages__title">Шаг 1</div>
                         <div class="advantages__description">Зарегистрируй личный кабинет на платформе</div>
                     </div>
@@ -265,7 +238,6 @@ $zarabotali=$kupili*1333;
                                 <i class="fa fa-handshake-o" aria-hidden="true"></i>
                             </div>
                         </div>
-
                         <div class="advantages__title">Шаг 2</div>
                         <div class="advantages__description">Активируй инвестиционный пакет</div>
                     </div>
@@ -277,7 +249,6 @@ $zarabotali=$kupili*1333;
                                 <i class="fa fa-plane" aria-hidden="true"></i>
                             </div>
                         </div>
-
                         <div class="advantages__title">Шаг 3</div>
                         <div class="advantages__description">Освободи время для жизни</div>
                     </div>
@@ -296,49 +267,47 @@ $zarabotali=$kupili*1333;
                     <div class="support__description">
                         Мы готовы ответить на любые вопросы
                     </div>
-                    <!--<div class="row">-->
-                    <!--    <div class="col-sm-6">-->
-                    <!--        <div class="support__image">-->
-                    <!--            <i class="fa fa-comments" aria-hidden="true"></i>-->
-                    <!--        </div>-->
-                    <!--        <div class="support__text">-->
-                    <!--            Email и Чат-->
-                    <!--        </div>-->
-                    <!--    </div>-->
-                    <!--    <div class="col-sm-6">-->
-                    <!--        <div class="support__image">-->
-                    <!--            <i class="fa fa-database" aria-hidden="true"></i>-->
-                    <!--        </div>-->
-                    <!--        <div class="support__text">-->
-                    <!--            Большая База Знаний-->
-                    <!--        </div>-->
-                    <!--    </div>-->
-                    <!--    <div class="col-sm-6">-->
-                    <!--        <div class="support__image">-->
-                    <!--            <i class="fa fa-user" aria-hidden="true"></i>-->
-                    <!--        </div>-->
-                    <!--        <div class="support__text">-->
-                    <!--            На связи 24/7-->
-                    <!--        </div>-->
-                    <!--    </div>-->
-                    <!--    <div class="col-sm-6">-->
-                    <!--        <div class="support__image">-->
-                    <!--            <i class="fa fa-file-code-o" aria-hidden="true"></i>-->
-                    <!--        </div>-->
-                    <!--        <div class="support__text">-->
-                    <!--            Доступная Документация-->
-                    <!--        </div>-->
-                    <!--    </div>-->
-                    <!--</div>-->
+                    <div class="row mt-3">
+                        <div class="col-sm-6 text-center text-sm-left">
+                            <div class="support__image">
+                                <i class="fa fa-comments" aria-hidden="true"></i>
+                            </div>
+                            <div class="support__text">
+                                Email и Чат
+                            </div>
+                        </div>
+                        <div class="col-sm-6 text-center text-sm-left">
+                            <div class="support__image">
+                                <i class="fa fa-database" aria-hidden="true"></i>
+                            </div>
+                            <div class="support__text">
+                                Большая База Знаний
+                            </div>
+                        </div>
+                        <div class="col-sm-6 text-center text-sm-left">
+                            <div class="support__image">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </div>
+                            <div class="support__text">
+                                На связи 24/7
+                            </div>
+                        </div>
+                        <div class="col-sm-6 text-center text-sm-left">
+                            <div class="support__image">
+                                <i class="fa fa-file-code-o" aria-hidden="true"></i>
+                            </div>
+                            <div class="support__text">
+                                Доступная Документация
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
 
                 <div class="col-md-6">
-
                     <div class="support__button my-5 mx-auto text-center">
                         <button class="btn btn-dark btn-lg" data-toggle="modal" data-target="#exampleModal">Получить поддержку</button>
                     </div>
-
                     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog" role="document" style="margin-bottom: 60px;">
                             <div class="modal-content">
@@ -381,8 +350,6 @@ $zarabotali=$kupili*1333;
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </div>
     </section>
@@ -396,7 +363,7 @@ $zarabotali=$kupili*1333;
                 Зарегистрируй личный кабинет и активируй необходимый пакет
             </div>
             <div class="register__button">
-                <a class="register__button button" href="/web/mlm/">Жми сюда</a>
+                <a class="register__button button" href="#">Жми сюда</a>
             </div>
         </div>
         <section class="particles" style="z-index: -1">
@@ -408,7 +375,7 @@ $zarabotali=$kupili*1333;
 </div>
 
 <footer>
-    © 2019 Освободи время для жизни
+    © 2020 Освободи время для жизни
 </footer>
 
 <script src="js/jQuery.js"></script>

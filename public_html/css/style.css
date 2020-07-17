@@ -539,3 +539,22 @@ footer {
 .title_mlm{
     color:#fff !important;
 }
+
+.title_mlm {
+	text-decoration: none;
+}
+.title_mln:hover {
+	text-decoration: none;
+}
+.title_nounderline {
+	text-decoration: none;
+}
+.title_underline {
+	text-decoration: underline;
+}
+.title_underline:hover{
+	text-decoration: underline;
+}
+.title_nounderline:hover {
+	text-decoration: none;
+}
