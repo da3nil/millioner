@@ -1,3 +1,3 @@
-# millioner.local
+# millioner
 
 Сайт по инвистициям.
